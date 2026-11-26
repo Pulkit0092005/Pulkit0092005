@@ -64,7 +64,7 @@ I love building projects, solving programming problems, and exploring new techno
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Pulkit0092005&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Pulkit0092005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" />
 </p>
 
 ---
