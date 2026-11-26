@@ -83,7 +83,7 @@ I believe in learning by doing, staying consistent, and improving every single d
 <a href="https://github.com/Pulkit0092005">
 <img src="https://img.shields.io/badge/GitHub-Pulkit0092005-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/pulkitsnehi/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
